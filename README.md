@@ -1,4 +1,4 @@
-# BibTeX Entry Extractor for LaTeX
+# Minibib: BibTeX Entry Extractor for LaTeX
 A simple yet powerful Python script to create a clean `.bib` file containing only the references cited in your `.tex` document. This is perfect for cleaning up your bibliography before sharing your project or submitting it to a journal.
 
 # Features
